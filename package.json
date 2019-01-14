@@ -1,0 +1,16 @@
+{
+  "name": "web3-metamask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "serve": "serve -p 4000 ./lib/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^10.1.1"
+  }
+}

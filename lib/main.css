@@ -1,0 +1,35 @@
+html,
+body {
+  background-color: #2a385e;
+  font-family: sans-serif;
+}
+
+.content {
+  display: flex;
+  margin: 4rem auto 0;
+  max-width: 1200px;
+  justify-content: center;
+  align-items: center;
+}
+
+a.btn-metamask {
+  background-color: #846b99;
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+a.btn-metamask:active {
+  background-color: #605c8e;
+}
+
+a.btn-metamask span {
+  margin-left: 1rem;
+}
+
+a.btn-metamask img {
+  width: 48px;
+}
